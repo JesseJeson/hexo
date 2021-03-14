@@ -135,27 +135,11 @@ footer:
     -
       name: github
       icon: github
-      path: https://github.com/zchengsite/hexo-theme-oranges
+      path: https://github.com/JesseJeson
     -
       name: email
       icon: envelope
-      path: 
-    -
-      name: facebook
-      icon: facebooksquare
-      path:
-    -
-      name: twitter
-      icon: twitter
-      path:
-    -
-      name: wechat
-      icon: wechat
-      path:
-    -
-      name: weibo
-      icon: weibo
-      path:
+      path: mailto:jessejeson@163.com
     -
       # rss需安装 hexo-generator-feed 插件
       # 具体参照https://github.com/hexojs/hexo-generator-feed
