@@ -23,8 +23,8 @@ favicon:
 
 # 用户头像与昵称
 avatar:
-  author_photo: /images/avatar.png
-  author_nickname: Oranges
+  author_photo: https://i.zerodream.net/7491eded26ea6ab673eae8459899a4ba.jpeg
+  author_nickname: histcat
   path: /
 
 # Google 分析
@@ -54,10 +54,10 @@ comments:
   valine:
     # https://valine.js.org/quickstart.html#%E8%8E%B7%E5%8F%96APP-ID-%E5%92%8C-APP-Key
     # 进入以上网址查看官方教程
-    enable: false
-    appId:
-    appKey:
-    placeholder: Welcome!
+    enable: true
+    appId: AofFxR0c20AhC2ylsAiVxHbr-MdYXbMMI
+    appKey: cn4VBm5X31qPnmQmaV0e14oL
+    placeholder: 来呀！评论呀！
     avatar: retro
     vempty_display: false
 
@@ -72,12 +72,12 @@ comments:
 # 主题页面导航栏
 navbar:
   -
-    name: Home
+    name: 首页
     enable: true
     path: /
     key: home
   -
-    name: Archives
+    name: 归档
     enable: true
     path: /archives/
     key: archives
@@ -87,17 +87,17 @@ navbar:
     path: /categories/
     key: categories
   -
-    name: Tags
+    name: 标签
     enable: true
     path: /tags/
     key: tags
   -
-    name: Friends
+    name: 友链
     enable: true
     path: /friends/
     key: friends
   -
-    name: About
+    name: 关于
     enable: true
     path: /about/
     key: about
@@ -165,8 +165,8 @@ footer:
 
   more:
     -
-      name: Copyright © Oranges 2021
-      path: https://github.com/zchengsite/hexo-theme-oranges
+      name: Copyright © Histcat 2021
+      path: https://github.com/JesseJeson
     -
       name: Theme by Oranges | Powered by Hexo
       path: https://github.com/zchengsite/hexo-theme-oranges
