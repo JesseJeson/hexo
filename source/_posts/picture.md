@@ -2,6 +2,7 @@
 title: 讨论一下有哪些好用的图床
 date: 2021-3-14 19:48:30
 tags:
+- 图床
 ---
 ## 1.zerodream images
 akkariin大佬创建的图床，必须注册，最大16mb
