@@ -1,7 +1,7 @@
 ---
-title: 关于我scratch，mc，建站的那些事
+title: 关于我scratch,mc,建站的那些事
 date: 2021-3-15 19:57:32
-tags:
+tags: 
 -scratch
 -mc
 -建站
