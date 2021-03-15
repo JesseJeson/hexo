@@ -101,6 +101,11 @@ navbar:
     enable: true
     path: /about/
     key: about
+  -
+    name: 说说
+    enable: true
+    path: /talk/
+    key: talk
 
 # 文章目录
 catalog:
