@@ -1,3 +1,8 @@
+---
+title: talk
+date: 2021-03-14 12:03:35
+type: "talk"
+---
 <!-- 引用 HexoPlusPlus_Talk组件 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@1.2.0/talk.css" /> 
 <script src="https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@1.2.0/talk_user.js"></script>
