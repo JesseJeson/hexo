@@ -128,6 +128,10 @@ friends:
     nickname: Hexo
     site: https://hexo.io/
     meta:
+  -
+    nickname: END.
+    site: https://ikyozi.cn
+    meta:
 
 # 页脚信息
 footer:
