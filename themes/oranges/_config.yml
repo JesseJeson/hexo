@@ -132,7 +132,11 @@ friends:
     nickname: END.
     site: https://ikyozi.cn
     meta:
-
+  -
+    nickname: AxiomXS-极帝网络
+    site: http://www.axiomxs.com
+    meta: 
+    
 # 页脚信息
 footer:
   # social: 社交方式
