@@ -121,20 +121,12 @@ friends:
   # site: 地址
   # meta: 描述
   -
-    nickname: Zcheng
-    site: https://zcheng.site/
-    meta:
-  -
-    nickname: Hexo
-    site: https://hexo.io/
-    meta:
-  -
     nickname: END.
-    site: https://ikyozi.cn
+    site: https://ikyozi.cn/
     meta:
   -
     nickname: AxiomXS-极帝网络
-    site: http://www.axiomxs.com
+    site: http://www.axiomxs.com/
     meta: 
     
 # 页脚信息
