@@ -128,6 +128,10 @@ friends:
     nickname: AxiomXS-极帝网络
     site: http://www.axiomxs.com/
     meta: 
+  -
+    nickname: YFun's Blog
+    site: https://blog.yfun.top
+    meta:
     
 # 页脚信息
 footer:
@@ -159,7 +163,6 @@ footer:
     -
       name: Theme by Oranges | Powered by Hexo
       path: https://github.com/zchengsite/hexo-theme-oranges
-
 # 文章搜索
 search:
   enable: true
