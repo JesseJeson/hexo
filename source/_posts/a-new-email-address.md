@@ -11,7 +11,7 @@ admin@histcat.eu.org
 第一，先选择的企业邮箱公司，腾讯，网易，阿里都要各种东西，懒得弄，选择的zoho.com.cn
 
 第二，按照教程折腾
-<https://zhuanlan.zhihu.com/p/166417646>
+<https://zhuanlan.zhihu.com/p/80183839>
 不过我选择的是国内版
 
 然后就结束了，是的，就这么简单。
