@@ -9,6 +9,7 @@ type: "about"
 
 b站id：histcat
 QQ就不放了。有事发邮箱吧！
-邮箱：jessejeson#163.com（#换为@）
+邮箱：~~jessejeson#163.com~~
+换邮箱啦！awa#outlook.hu（#换为@）
 
 网站其实也没啥，只是为了开心૧(●´৺●)૭૧(●´৺●)૭
