@@ -1,8 +1,0 @@
-<% page.posts.each(function(post, index){ %>
-	<%if(post.title==""){
-		post.title=_p("article.title")
-	}%>
-	<%- partial('_partial/article', {index: true, post: post}) %>
-<% }) %>
-<%- partial('_partial/pagination') %>
-<%- partial('_partial/rightside') %>

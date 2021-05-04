@@ -1,7 +1,7 @@
 ---
 title: 说说
 date: 2021-03-14 12:03:35
-type: about
+type: "about"
 ---
 <!-- 引用 HexoPlusPlus_Talk组件 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@1.2.0/talk.css" /> 
