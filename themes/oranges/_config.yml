@@ -148,7 +148,7 @@ footer:
     -
       name: email
       icon: envelope
-      path: mailto:awa@outlook.hu
+      path: mailto:jessejeson@163.com
     -
       # rss需安装 hexo-generator-feed 插件
       # 具体参照https://github.com/hexojs/hexo-generator-feed
