@@ -11,4 +11,6 @@ tags:
 挑了好久，终于选出了一个MengD<https://mengd.lete114.top/>
 
 ## 经过
-我家网差到离谱，github网站登不上去，就想着下github desktop，下这个就废了我20分钟
+我家网差到离谱，github网站登不上去，就想着下github desktop（以下简称g桌面版），下这个就废了我20分钟
+g桌面版好像没有中文？我就边摸索，边换主题
+满怀希望滴上传了第一次push
