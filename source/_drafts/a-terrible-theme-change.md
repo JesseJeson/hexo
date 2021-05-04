@@ -20,3 +20,7 @@ github desktop好像没有中文？我就边摸索，边换主题
 我于是就不抱希望了，准备换回原来的主题
 也不知道是我脑子短路了还是怎么的，忘了把config里的theme项改一改就可以，还去网上找github回滚。。
 终于，我想到了改一改config这个方法，博客也恢复了原样
+看一下push记录![](https://cdn.jsdelivr.net/gh/JesseJeson/file@master/1620116326000.PNG)
+
+## 结果
+~~我再也不敢换主题了~~（雾）
