@@ -9,3 +9,6 @@ tags:
 一直想更换waline好久，但由于博客主题不支持waline，于是就拖了好久
 今天，终于要换主题啦！~~然而还是没换成~~
 挑了好久，终于选出了一个MengD<https://mengd.lete114.top/>
+
+## 经过
+我家网差到离谱，github网站登不上去，就想着下github desktop，下这个就废了我20分钟
