@@ -15,7 +15,7 @@ tags:
 
 
 博主常用的邮箱有3个
-1400898550#qq. com
-jessejeson#163.com
-awa#outlook.hu
+1400898550#qq.com(qq邮箱，不常用，只用来做博客的评论提醒)
+jessejeson#163.com(密保手机号已交回运营商，忘改密保手机号了，快要作废)
+awa#outlook.hu(常用邮箱，有事联系这个，outlook的国际域名邮箱)
 OωO
