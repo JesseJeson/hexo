@@ -5,11 +5,11 @@ tags:
 - 公告
 ---
 ~~本站域名目前有四个:~~
-只剩一下一个啦，其他的访问效果都不太好，我都跳转到这一个[netlify的自动部署](https://histcat.netlify.app/)了。
+只剩下一个啦，其他的访问效果都不太好，我都跳转到这一个[netlify的自动部署](https://histcat.netlify.app/)了。
 
 另外，histcat.eu.org以及histcat.ml在国内无法访问，我也不知道为什么。
 
-我最近创建了一个笔记网站：[点这里！](https://histnote.netlify.app/)
+我最近创建了一个笔记网站：[点这里！](https://histnote.netlify.app/)。感谢[somebottle](https://www.github.com/somebottle/-o-)对我的帮助！
 
 最后：netlify真好用呀！（vercel最近国内访问情况不太乐观，我先不用它了）
 
