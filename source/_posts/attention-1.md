@@ -5,7 +5,7 @@ tags:
 - 公告
 ---
 ~~本站域名目前有四个:~~
-只剩下一个啦，其他的访问效果都不太好，我都跳转到这一个[netlify的自动部署](https://histcat.netlify.app/)了。
+只剩下一个啦，其他的访问效果都不太好，我都重定向到这一个[netlify的自动部署](https://histcat.netlify.app/)了。
 
 另外，histcat.eu.org以及histcat.ml在国内无法访问，我也不知道为什么。
 
