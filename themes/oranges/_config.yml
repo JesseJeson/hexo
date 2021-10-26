@@ -132,7 +132,11 @@ friends:
     nickname: YFun's Blog
     site: https://blog.yfun.top
     meta:
-    
+  -
+    nickname: jshang
+    site: https://jshang.cf/
+    meta:
+
 # 页脚信息
 footer:
   # social: 社交方式
