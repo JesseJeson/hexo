@@ -9,6 +9,7 @@ tags:
 telegram帐号，~~脑子和手~~QAQ
 
 ## 1.注册帐号
+(建议先加入telegram群，点击官网那个Join our Telegram Group 就行)
 打开<https://hax.co.id/register/>，根据要求去telegram私聊机器人(@HaxTG_bot)，发送/getid，![](https://cdn.jsdelivr.net/gh/JesseJeson/file@master/1641182448000.png)，然后把得到的id输入，点击submit。然后机器人就回发过一个验证码来(图一)。把验证码填入第一个文本框，在第二个文本框输入密码(图二)，点击submit，帐号就注册好了。
 
 ![图一](https://cdn.jsdelivr.net/gh/JesseJeson/file@master/1641182821000.png)
@@ -28,3 +29,6 @@ eu openvz用满一个月可以升级内存到1gb，看图![](https://cdn.jsdeliv
 ID1(印尼的机器，国际宽带很小，不建议)，US-LA，US-NYC(美国的)，是LXC区，配置和kvm区差不多。
 
 ## 3.连接vps
+
+## 4.用途
+这样配置的vps最常见的用途就是搭建vpn，但你也可以
