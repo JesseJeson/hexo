@@ -16,3 +16,6 @@ telegram帐号，~~脑子和手~~QAQ
 
 ## 2.白嫖vps
 <https://hax.co.id/login/>登录帐号，ID就是getid获取的，password是自己设定的。验证码加载可能较慢，如有需要可挂梯子。
+
+![](https://cdn.jsdelivr.net/gh/JesseJeson/file@master/1641183050000.png)
+点击这里的Create VPS
