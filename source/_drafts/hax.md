@@ -13,3 +13,6 @@ telegram帐号，~~脑子和手~~QAQ
 
 ![图一](https://cdn.jsdelivr.net/gh/JesseJeson/file@master/1641182821000.png)
 ![图二](https://cdn.jsdelivr.net/gh/JesseJeson/file@master/1641182839000.png)
+
+## 2.白嫖vps
+<https://hax.co.id/login/>登录帐号，ID就是getid获取的，password是自己设定的。验证码加载可能较慢，如有需要可挂梯子。
