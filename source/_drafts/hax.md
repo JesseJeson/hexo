@@ -19,3 +19,5 @@ telegram帐号，~~脑子和手~~QAQ
 
 ![](https://cdn.jsdelivr.net/gh/JesseJeson/file@master/1641183050000.png)
 点击这里的Create VPS
+![](https://cdn.jsdelivr.net/gh/JesseJeson/file@master/1641183267000.png)
+如图所示。DataCenter是选择vps地区的，后文介绍区别，Operating System是选择系统，根据个人喜好吧。Password是ssh连接服务器时的密码。VPS  purpose 是目的，随便选。最后把五个复选框点上，验证验证码，点击Create VPS就行啦QwQ。
