@@ -136,7 +136,11 @@ friends:
     nickname: jshang
     site: https://jshang.cf/
     meta:
-
+  -
+    nickname: LTY's Blog
+    site: https://blog.ltya.top
+    meta: 在蓝天中寻找快乐
+    
 # 页脚信息
 footer:
   # social: 社交方式
