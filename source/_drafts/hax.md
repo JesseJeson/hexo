@@ -27,4 +27,4 @@ eu1-10是德国服务器，没什么特殊的(500m内存应该是4g硬盘)。eum
 eu openvz用满一个月可以升级内存到1gb，看图![](https://cdn.jsdelivr.net/gh/JesseJeson/file@master/1641183741000.jpg)
 ID1(印尼的机器，国际宽带很小，不建议)，US-LA，US-NYC(美国的)，是LXC区，配置和kvm区差不多。
 
-## 3.连接
+## 3.连接vps
