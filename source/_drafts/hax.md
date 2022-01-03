@@ -24,4 +24,4 @@ telegram帐号，~~脑子和手~~QAQ
 
 ### 补充DataCenter
 eu1-10是德国服务器，没什么特殊的(500m内存应该是4g硬盘)。eumid1也是德国服务器，但是是1g内存10g硬盘(如果列表没有就是抢没了，共120台，常年满人)，这些都是kvm区。
-eu openvz用满一个月可以升级内存和硬盘
+eu openvz用满一个月可以升级内存到1gb，看图![](https://cdn.jsdelivr.net/gh/JesseJeson/file@master/1641183741000.jpg)。
