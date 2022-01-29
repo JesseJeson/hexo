@@ -1,10 +1,12 @@
 ---
-title: 公告（2021-7-24更新）
+title: 再见啦~~
 date: 2024-1-1
 tags:
 - 公告
 ---
-~~本站域名目前有四个:~~
+以后应该也不会弄博客了吧，专心去搞学习和oi了~ QWQ
+~~
+本站域名目前有四个:
 只剩下一个啦，其他的访问效果都不太好，我都重定向到这一个[netlify的自动部署](https://histcat.netlify.app/)了。
 
 另外，histcat.eu.org以及histcat.ml在国内无法访问，我也不知道为什么。
@@ -18,3 +20,5 @@ tags:
 jessejeson#163.com(密保手机号已交回运营商，忘改密保手机号了，快要作废)
 awa#outlook.hu(常用邮箱，有事联系这个，outlook的国际域名邮箱)
 OωO
+~~
+
